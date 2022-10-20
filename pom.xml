@@ -40,7 +40,6 @@
                         </goals>
                         <configuration>
                             <createDependencyReducedPom>false</createDependencyReducedPom>
-<!--                            <outputDirectory>C:\Users\jamie\Documents\spigot-server-old\plugins</outputDirectory>-->
                         </configuration>
                     </execution>
                 </executions>
