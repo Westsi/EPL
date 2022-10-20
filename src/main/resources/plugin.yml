@@ -1,0 +1,6 @@
+name: EPlugin
+version: '${project.version}'
+main: io.github.westsi.esmp.EPlugin
+api-version: 1.18
+authors: [ Westsi ]
+description: EPlugin
